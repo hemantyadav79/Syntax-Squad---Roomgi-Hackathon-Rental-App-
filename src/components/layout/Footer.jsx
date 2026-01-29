@@ -12,7 +12,7 @@ export function Footer() {
               <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
                 <Home className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="font-display text-xl font-bold">StayFinder</span>
+              <span className="font-display text-xl font-bold">Rental App</span>
             </Link>
             <p className="text-muted-foreground/80 max-w-md">
               Find verified rental rooms, PGs, and hostels near your college or workplace. 
@@ -36,22 +36,22 @@ export function Footer() {
             <ul className="space-y-2 text-muted-foreground/80">
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>support@stayfinder.com</span>
+                <span>support@syntaxsquad.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+91 98765 43210</span>
+                <span>+91 98765 *****</span>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
-                <span>Mumbai, India</span>
+                <span>Bihar, Patna</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-muted-foreground/20 mt-8 pt-8 text-center text-muted-foreground/60">
-          <p>&copy; {new Date().getFullYear()} StayFinder. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Rental App. All rights reserved.</p>
         </div>
       </div>
     </footer>
