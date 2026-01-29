@@ -105,7 +105,7 @@ export default function AuthPage() {
                 <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
                   <Home className="w-5 h-5 text-primary-foreground" />
                 </div>
-                <span className="font-display text-xl font-bold">StayFinder</span>
+                <span className="font-display text-xl font-bold">Rental App</span>
               </div>
               <h1 className="font-display text-3xl font-bold">
                 {isSignUp ? 'Create your account' : 'Welcome back'}
