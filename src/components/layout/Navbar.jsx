@@ -23,7 +23,7 @@ export function Navbar() {
             <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
               <Home className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="font-display text-xl font-bold text-foreground">StayFinder</span>
+            <span className="font-display text-xl font-bold text-foreground">Rental App</span>
           </Link>
 
           {/* Desktop Navigation */}
