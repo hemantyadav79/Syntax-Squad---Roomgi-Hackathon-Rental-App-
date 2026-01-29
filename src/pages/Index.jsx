@@ -120,7 +120,7 @@ export default function Index() {
       <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="section-heading mb-4">Why Choose StayFinder?</h2>
+            <h2 className="section-heading mb-4">Why Choose Rental App?</h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               We make finding accommodation simple, safe, and hassle-free
             </p>
